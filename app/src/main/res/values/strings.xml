@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Kotlin Application</string>
+    <string name="hello_text">Hello, VPBank!</string>
+</resources>
